@@ -1,1 +1,7 @@
-# Pashu-lens
+streamlit>=1.22
+tensorflow-cpu==2.16.1
+numpy
+pillow
+scikit-learn
+gdown
+protobuf>=3.20.0

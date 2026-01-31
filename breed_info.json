@@ -1,0 +1,342 @@
+{
+  "Amritmahal": {
+    "Height": "127–140 cm",
+    "Weight": "500 kg (male), 318 kg (female)",
+    "Location": "Karnataka, India",
+    "Color": "Grey (white to almost black)",
+    "Milk Yield per Lactation": "≈572 kg",
+    "Milk Fat %": "5.7%",
+    "Horn Shape & Size": "Long, close together, upward/backward",
+    "Visible Characteristics": "Compact, muscular, strong hump, endurance breed"
+  },
+  "Banni": {
+    "Height": "≈150 cm",
+    "Weight": "525–562 kg (male), 475–575 kg (female)",
+    "Location": "Kutch, Gujarat, India",
+    "Color": "Black or brown with white patches",
+    "Milk Yield per Day": "12–18 L (~2500–2700 L per lactation)",
+    "Milk Fat %": "≈5%",
+    "Horn Shape & Size": "Inverted, coiled (24–30 cm)",
+    "Visible Characteristics": "Compact, wedge-shaped, night-grazing adaptation"
+  },
+  "Bargur": {
+    "Height": "≈120–130 cm",
+    "Weight": "300–400 kg",
+    "Location": "Tamil Nadu, India",
+    "Color": "Brown with white markings",
+    "Milk Yield per Lactation": "200–500 kg",
+    "Milk Fat %": "4–5% (est.)",
+    "Horn Shape & Size": "Long, outward curving",
+    "Visible Characteristics": "Well-built draught breed, fiery temperament"
+  },
+  "Bhadawari": {
+    "Height": "≈120–130 cm",
+    "Weight": "400–500 kg",
+    "Location": "Uttar Pradesh & Madhya Pradesh, India",
+    "Color": "Copper brown with white markings",
+    "Milk Yield per Lactation": "800–1200 kg",
+    "Milk Fat %": "6–12%",
+    "Horn Shape & Size": "Medium, slightly curved",
+    "Visible Characteristics": "Strong, high-fat milk producer"
+  },
+  "Dangi": {
+    "Height": "≈115–125 cm",
+    "Weight": "340–450 kg",
+    "Location": "Maharashtra, India",
+    "Color": "White or light grey with spots",
+    "Milk Yield per Lactation": "500–1000 kg",
+    "Milk Fat %": "4.5–5% (est.)",
+    "Horn Shape & Size": "Curved upward",
+    "Visible Characteristics": "Well adapted to heavy rainfall regions"
+  },
+  "Deoni": {
+    "Height": "≈125–135 cm",
+    "Weight": "400–500 kg",
+    "Location": "Maharashtra, Karnataka, Telangana (India)",
+    "Color": "Wannera (white), Shevera (spotted), Balankya (black/white)",
+    "Milk Yield per Lactation": "868–1230 kg",
+    "Milk Fat %": "4.3–4.8%",
+    "Horn Shape & Size": "Medium, curved outward and upward",
+    "Visible Characteristics": "Dual-purpose breed, hardy"
+  },
+  "Gir": {
+    "Height": "130 cm (female), 140 cm (male)",
+    "Weight": "385 kg (female), 545 kg (male)",
+    "Location": "Gujarat, India",
+    "Color": "Red, mottled, yellow to white",
+    "Milk Yield per Lactation": "1590 kg average, record >3000 kg",
+    "Milk Fat %": "4.5%",
+    "Horn Shape & Size": "Spiral, sweeping back",
+    "Visible Characteristics": "Prominent convex forehead, long pendulous ears"
+  },
+  "Hallikar": {
+    "Height": "≈130–140 cm",
+    "Weight": "430–500 kg",
+    "Location": "Karnataka, India",
+    "Color": "Grey to white",
+    "Milk Yield per Lactation": "500–600 kg",
+    "Milk Fat %": "4.8%",
+    "Horn Shape & Size": "Long, vertical curving",
+    "Visible Characteristics": "Powerful draught breed, alert, lean"
+  },
+  "Hariana": {
+    "Height": "≈125–130 cm",
+    "Weight": "400–450 kg",
+    "Location": "Haryana, India",
+    "Color": "Grey-white",
+    "Milk Yield per Lactation": "600–800 kg",
+    "Milk Fat %": "4–5%",
+    "Horn Shape & Size": "Small, curved upward",
+    "Visible Characteristics": "Powerful bullocks, fair milkers"
+  },
+  "Jaffrabadi": {
+    "Height": "≈140–150 cm",
+    "Weight": "600–700 kg",
+    "Location": "Gujarat, India",
+    "Color": "Black",
+    "Milk Yield per Lactation": "1500–2000 kg",
+    "Milk Fat %": "7–8%",
+    "Horn Shape & Size": "Massive, drooping downward",
+    "Visible Characteristics": "Largest buffalo breed, heavy frame"
+  },
+  "Kangayam": {
+    "Height": "125 cm (female), 140 cm (male)",
+    "Weight": "341 kg (female), 523 kg (male)",
+    "Location": "Tamil Nadu, India",
+    "Color": "Grey, darker in bulls",
+    "Milk Yield per Lactation": "540 kg avg (range 342–1455 L)",
+    "Milk Fat %": "3.9%",
+    "Horn Shape & Size": "Medium, curved",
+    "Visible Characteristics": "Compact draught build, strong, active"
+  },
+  "Kankrej": {
+    "Height": "≈130–140 cm",
+    "Weight": "450–500 kg",
+    "Location": "Gujarat & Rajasthan, India",
+    "Color": "Silver-grey to steel black",
+    "Milk Yield per Lactation": "1400 kg",
+    "Milk Fat %": "4.8%",
+    "Horn Shape & Size": "Lyre-shaped",
+    "Visible Characteristics": "Fast, strong draught breed"
+  },
+  "Kasargod": {
+    "Height": "≈110–120 cm",
+    "Weight": "300–350 kg",
+    "Location": "Kerala, India",
+    "Color": "Dark brown/black",
+    "Milk Yield per Lactation": "200–400 kg (low)",
+    "Milk Fat %": "4–5%",
+    "Horn Shape & Size": "Small, curved",
+    "Visible Characteristics": "Small native breed, hardy"
+  },
+  "Kenkatha": {
+    "Height": "≈110–120 cm",
+    "Weight": "350–400 kg",
+    "Location": "Uttar Pradesh & Madhya Pradesh, India",
+    "Color": "Grey-white",
+    "Milk Yield per Lactation": "200–400 kg",
+    "Milk Fat %": "≈4.5%",
+    "Horn Shape & Size": "Medium, slightly curved",
+    "Visible Characteristics": "Good draught cattle, hardy"
+  },
+  "Kherigarh": {
+    "Height": "≈120 cm",
+    "Weight": "350–400 kg",
+    "Location": "Uttar Pradesh, India",
+    "Color": "White to grey",
+    "Milk Yield per Lactation": "200–500 kg",
+    "Milk Fat %": "≈4.5%",
+    "Horn Shape & Size": "Medium, curved",
+    "Visible Characteristics": "Light draught, bullock breed"
+  },
+  "Khillari": {
+    "Height": "137–168 cm",
+    "Weight": "350–450 kg",
+    "Location": "Maharashtra & Karnataka, India",
+    "Color": "Grey-white",
+    "Milk Yield per Lactation": "200–400 kg",
+    "Milk Fat %": "4%",
+    "Horn Shape & Size": "Long, curving backward and upward",
+    "Visible Characteristics": "Compact, drought-adapted"
+  },
+  "Krishna_Valley": {
+    "Height": "≈130–140 cm",
+    "Weight": "400–500 kg",
+    "Location": "Karnataka, India",
+    "Color": "Grey-white",
+    "Milk Yield per Lactation": "500–600 kg",
+    "Milk Fat %": "≈4.5%",
+    "Horn Shape & Size": "Medium, curving outward",
+    "Visible Characteristics": "Strong draught cattle"
+  },
+  "Malnad_gidda": {
+    "Height": "≈95–105 cm",
+    "Weight": "150–200 kg",
+    "Location": "Western Ghats, Karnataka, India",
+    "Color": "Black/brown",
+    "Milk Yield per Lactation": "200–300 kg",
+    "Milk Fat %": "4.5–5%",
+    "Horn Shape & Size": "Small",
+    "Visible Characteristics": "Miniature cattle, hardy, disease-resistant"
+  },
+  "Mehsana": {
+    "Height": "≈130–140 cm",
+    "Weight": "400–550 kg",
+    "Location": "Gujarat, India",
+    "Color": "Black with white markings",
+    "Milk Yield per Lactation": "1200–1500 kg",
+    "Milk Fat %": "5–7%",
+    "Horn Shape & Size": "Curved",
+    "Visible Characteristics": "Cross of Surti and Murrah buffaloes"
+  },
+  "Murrah": {
+    "Height": "135–145 cm",
+    "Weight": "450–550 kg",
+    "Location": "Haryana, Punjab, India",
+    "Color": "Jet black",
+    "Milk Yield per Lactation": "1500–2500 kg",
+    "Milk Fat %": "7–8%",
+    "Horn Shape & Size": "Short, tightly curved",
+    "Visible Characteristics": "Well-built, shiny coat, strong legs"
+  },
+  "Nagori": {
+    "Height": "≈135 cm",
+    "Weight": "400–500 kg",
+    "Location": "Rajasthan, India",
+    "Color": "White-grey",
+    "Milk Yield per Lactation": "Low (200–400 kg)",
+    "Milk Fat %": "≈4.5%",
+    "Horn Shape & Size": "Medium, curved",
+    "Visible Characteristics": "Excellent draught cattle"
+  },
+  "Nagpuri": {
+    "Height": "≈135–145 cm",
+    "Weight": "400–500 kg",
+    "Location": "Maharashtra, India",
+    "Color": "Black with white markings",
+    "Milk Yield per Lactation": "1000–1200 kg",
+    "Milk Fat %": "7%",
+    "Horn Shape & Size": "Long, flat curving back",
+    "Visible Characteristics": "Dual-purpose buffalo breed"
+  },
+  "Nili_Ravi": {
+    "Height": "≈135–145 cm",
+    "Weight": "600 kg (male), 450 kg (female)",
+    "Location": "Punjab (India & Pakistan)",
+    "Color": "Black with white markings",
+    "Milk Yield per Lactation": "1800–2500 kg",
+    "Milk Fat %": "7%",
+    "Horn Shape & Size": "Curved",
+    "Visible Characteristics": "Large frame, well-developed udder"
+  },
+  "Nimari": {
+    "Height": "≈120–130 cm",
+    "Weight": "350–400 kg",
+    "Location": "Madhya Pradesh, India",
+    "Color": "Reddish-brown",
+    "Milk Yield per Lactation": "200–400 kg",
+    "Milk Fat %": "≈4.5%",
+    "Horn Shape & Size": "Small, curved",
+    "Visible Characteristics": "Light draught cattle"
+  },
+  "Ongole": {
+    "Height": "150–155 cm",
+    "Weight": "500 kg (male), 430–455 kg (female)",
+    "Location": "Andhra Pradesh, India",
+    "Color": "White or light grey",
+    "Milk Yield per Lactation": "1000 kg",
+    "Milk Fat %": "≈4%",
+    "Horn Shape & Size": "Short, curved",
+    "Visible Characteristics": "Large, muscular, heavy draught"
+  },
+  "Pulikulam": {
+    "Height": "≈110–120 cm",
+    "Weight": "300–350 kg",
+    "Location": "Tamil Nadu, India",
+    "Color": "Grey",
+    "Milk Yield per Lactation": "200–300 kg",
+    "Milk Fat %": "≈4.5%",
+    "Horn Shape & Size": "Small, curved",
+    "Visible Characteristics": "Used in Jallikattu, hardy"
+  },
+  "Rathi": {
+    "Height": "≈125–135 cm",
+    "Weight": "400–500 kg",
+    "Location": "Rajasthan, India",
+    "Color": "Brown with white patches",
+    "Milk Yield per Lactation": "1560 kg",
+    "Milk Fat %": "4.5%",
+    "Horn Shape & Size": "Small, curved",
+    "Visible Characteristics": "Good dairy breed from arid regions"
+  },
+  "Red_Sindhi": {
+    "Height": "132 cm (male), 115 cm (female)",
+    "Weight": "530 kg (male), 325 kg (female)",
+    "Location": "Sindh (Pakistan), India",
+    "Color": "Reddish-brown",
+    "Milk Yield per Lactation": "2500–3000 L",
+    "Milk Fat %": "5%",
+    "Horn Shape & Size": "Medium, curved",
+    "Visible Characteristics": "Heat-resistant, productive milker"
+  },
+  "Sahiwal": {
+    "Height": "170 cm (male), 130 cm (female)",
+    "Weight": "544 kg (male), 408 kg (female)",
+    "Location": "Punjab (India & Pakistan)",
+    "Color": "Reddish dun",
+    "Milk Yield per Lactation": "2000–3000 kg",
+    "Milk Fat %": "5%",
+    "Horn Shape & Size": "Short, curved",
+    "Visible Characteristics": "Renowned dairy breed, disease-resistant"
+  },
+  "Surti": {
+    "Height": "≈125–135 cm",
+    "Weight": "400–500 kg",
+    "Location": "Gujarat, India",
+    "Color": "Rusty brown or silver-grey",
+    "Milk Yield per Lactation": "900–1300 kg",
+    "Milk Fat %": "7%",
+    "Horn Shape & Size": "Flat, sickle-shaped",
+    "Visible Characteristics": "Compact, good milker"
+  },
+  "Tharparkar": {
+    "Height": "≈125–135 cm",
+    "Weight": "400–500 kg",
+    "Location": "Rajasthan, India",
+    "Color": "White-grey",
+    "Milk Yield per Lactation": "1800–2600 kg",
+    "Milk Fat %": "4.9%",
+    "Horn Shape & Size": "Medium, curved",
+    "Visible Characteristics": "Dual-purpose, adapted to arid zones"
+  },
+  "Toda": {
+    "Height": "≈110–120 cm",
+    "Weight": "300–350 kg",
+    "Location": "Nilgiris, Tamil Nadu, India",
+    "Color": "Black",
+    "Milk Yield per Lactation": "200–400 kg",
+    "Milk Fat %": "≈5%",
+    "Horn Shape & Size": "Curved",
+    "Visible Characteristics": "Sacred breed, reared by Toda tribe"
+  },
+  "Umblachery": {
+    "Height": "≈120–130 cm",
+    "Weight": "350–400 kg",
+    "Location": "Tamil Nadu, India",
+    "Color": "Grey with white markings",
+    "Milk Yield per Lactation": "200–400 kg",
+    "Milk Fat %": "≈4.5%",
+    "Horn Shape & Size": "Small, curved",
+    "Visible Characteristics": "Compact draught breed"
+  },
+  "Vechur": {
+    "Height": "90–100 cm",
+    "Weight": "130–150 kg",
+    "Location": "Kerala, India",
+    "Color": "Light red, black or white",
+    "Milk Yield per Day": "3–4 L (~400–500 L per lactation)",
+    "Milk Fat %": "5–5.5%",
+    "Horn Shape & Size": "Small",
+    "Visible Characteristics": "World’s smallest cattle breed, hardy"
+  }
+}
